@@ -10,10 +10,10 @@ namely the number of provinces visualized on the map, the number of districts an
 
 The purpose of this data visualization is to answer the following questions:
 
-Do you know the provinces in Indonesia?
-How many provinces in Indonesia?
-How many districts and cities throughout Indonesia?
-The names of the districts and cities of each province?
+1. Do you know the provinces in Indonesia?
+2. How many provinces in Indonesia?
+3. How many districts and cities throughout Indonesia?
+4. The names of the districts and cities of each province?
 
 From the visualization that has been done, the answers to the questions above are described as follows.
 
